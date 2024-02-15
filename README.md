@@ -9,6 +9,10 @@ ionization of a gas composed of a mixture of hydrogen and helium in
 function of temperature under the equilibrium assumption of
 collisional ionization.
 
+![Alt text](Results/ionizzazione_idrogeno.png.png?raw=true)
+
+![Alt text](Results/ionizzazione_elio.png.png?raw=true)
+
 Once obtained the ionization state of the gas we
 will have to calculate its rate of radiative cooling (via the so-called cooling function). 
 
@@ -18,5 +22,4 @@ gas temperature caused by the emission of radiation
 
 The whole description of the project's code and numerical methods is in italian in the 'description.pdf' file.
 
-Results:
 
