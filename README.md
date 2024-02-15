@@ -17,3 +17,6 @@ gas temperature caused by the emission of radiation
 (we will assume the gas is transparent to the radiation it emits).
 
 The whole description of the project's code and numerical methods is in italian in the 'description.pdf' file.
+
+Results:
+
